@@ -1,3 +1,17 @@
-<div class="hello">
-  <%= text %>
+<div class="row">
+  <h1>Choose your own adventure</h1>
+</div>
+<div class="panel">
+  <div class="row">
+    <div class="large-12 columns question">
+      Hi there. This is a question.
+    </div>
+  </div>
+  <div class="row">
+    <ul class="button-group round even-3 large-6 columns">
+      <li><a href="#" class="small button">Button 1</a></li>
+      <li><a href="#" class="small button">Button 2</a></li>
+      <li><a href="#" class="small button">Button 3</a></li>
+    </ul>
+  </div>
 </div>
