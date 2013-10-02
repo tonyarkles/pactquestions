@@ -5,8 +5,8 @@ window.A =
 
 window.questions =
   landing:
-    Yes: 'page1'
-    No: 'page2'
+    'Yes': 'page1'
+    'No': 'page2'
   page1:
     'Less than 10': 'less-than-10'
     '10 to 20': '10-to-20'
