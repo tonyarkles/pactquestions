@@ -6,6 +6,12 @@
     <link rel="stylesheet" type="text/css" href="css/app.css" media="all" />
   </head>
   <body>
+    <div class="row">
+      <h1>Choose your own adventure</h1>
+    </div>
+    <div class="panel question-panel">
+    </div>
+    
     <script type="text/javascript" src="js/app.js"></script>
   </body>
 </html>

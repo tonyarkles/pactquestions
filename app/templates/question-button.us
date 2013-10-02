@@ -1,0 +1,1 @@
+<li><a href="#q/<%= hash %>" class="small button"><%= title %></a></li>
